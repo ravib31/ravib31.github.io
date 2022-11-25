@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d73bbd1.css",
-    "main.js": "/static/js/main.b10568b8.js",
+    "main.css": "/static/css/main.af21738a.css",
+    "main.js": "/static/js/main.99ca5d8a.js",
+    "static/media/react2.png": "/static/media/react2.d78071bbb6de8af93490.png",
+    "static/media/bigbasket.jpg": "/static/media/bigbasket.bfae8dcd38b357f4c309.jpg",
     "static/media/photo-1480506132288-68f7705954bd.jpg": "/static/media/photo-1480506132288-68f7705954bd.272567a992173a739d8a.jpg",
+    "static/media/indiatoday.jpg": "/static/media/indiatoday.37460ab64e49c5e64bad.jpg",
+    "static/media/react1.jpg": "/static/media/react1.cc806161efce7f6dd634.jpg",
     "index.html": "/index.html",
-    "main.2d73bbd1.css.map": "/static/css/main.2d73bbd1.css.map",
-    "main.b10568b8.js.map": "/static/js/main.b10568b8.js.map"
+    "main.af21738a.css.map": "/static/css/main.af21738a.css.map",
+    "main.99ca5d8a.js.map": "/static/js/main.99ca5d8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d73bbd1.css",
-    "static/js/main.b10568b8.js"
+    "static/css/main.af21738a.css",
+    "static/js/main.99ca5d8a.js"
   ]
 }

@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.af21738a.css",
-    "main.js": "/static/js/main.70569440.js",
+    "main.css": "/static/css/main.a28b52f1.css",
+    "main.js": "/static/js/main.af7ef88c.js",
+    "static/media/my-image.jpg": "/static/media/my-image.95293ad13fdfc1dcc223.jpg",
     "static/media/react2.png": "/static/media/react2.d78071bbb6de8af93490.png",
     "static/media/bigbasket.jpg": "/static/media/bigbasket.bfae8dcd38b357f4c309.jpg",
+    "static/media/resume.pdf": "/static/media/resume.601b20fb4029095cb5c0.pdf",
     "static/media/photo-1480506132288-68f7705954bd.jpg": "/static/media/photo-1480506132288-68f7705954bd.272567a992173a739d8a.jpg",
     "static/media/indiatoday.jpg": "/static/media/indiatoday.37460ab64e49c5e64bad.jpg",
     "static/media/react1.jpg": "/static/media/react1.cc806161efce7f6dd634.jpg",
+    "static/media/rdigital.jpg": "/static/media/rdigital.7c93542657364f372998.jpg",
     "index.html": "/index.html",
-    "main.af21738a.css.map": "/static/css/main.af21738a.css.map",
-    "main.70569440.js.map": "/static/js/main.70569440.js.map"
+    "main.a28b52f1.css.map": "/static/css/main.a28b52f1.css.map",
+    "main.af7ef88c.js.map": "/static/js/main.af7ef88c.js.map"
   },
   "entrypoints": [
-    "static/css/main.af21738a.css",
-    "static/js/main.70569440.js"
+    "static/css/main.a28b52f1.css",
+    "static/js/main.af7ef88c.js"
   ]
 }

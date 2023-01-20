@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f4d5e8b.css",
-    "main.js": "/static/js/main.9c84ef44.js",
+    "main.css": "/static/css/main.409115e7.css",
+    "main.js": "/static/js/main.b497950e.js",
     "static/media/amazon.png": "/static/media/amazon.490c65f5e1d6d2b237e2.png",
     "static/media/digital.png": "/static/media/digital.1740d097035e0bab57ab.png",
     "static/media/basket.png": "/static/media/basket.8dc3fe35df30334cd106.png",
     "static/media/asos.png": "/static/media/asos.569ea45a239316596d1f.png",
     "static/media/today.png": "/static/media/today.6bc5337d2af7ceee57db.png",
     "static/media/1.jpg": "/static/media/1.772c3ef535abe9c3de4b.jpg",
-    "static/media/photo-1480506132288-68f7705954bd.jpg": "/static/media/photo-1480506132288-68f7705954bd.272567a992173a739d8a.jpg",
     "index.html": "/index.html",
-    "main.6f4d5e8b.css.map": "/static/css/main.6f4d5e8b.css.map",
-    "main.9c84ef44.js.map": "/static/js/main.9c84ef44.js.map"
+    "main.409115e7.css.map": "/static/css/main.409115e7.css.map",
+    "main.b497950e.js.map": "/static/js/main.b497950e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f4d5e8b.css",
-    "static/js/main.9c84ef44.js"
+    "static/css/main.409115e7.css",
+    "static/js/main.b497950e.js"
   ]
 }

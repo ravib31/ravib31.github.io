@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.254916d0.css",
-    "main.js": "/static/js/main.9e7f783e.js",
+    "main.js": "/static/js/main.29db32cb.js",
     "static/media/amazon.png": "/static/media/amazon.490c65f5e1d6d2b237e2.png",
     "static/media/digital.png": "/static/media/digital.1740d097035e0bab57ab.png",
     "static/media/messhomart.png": "/static/media/messhomart.bfbc4aa812bd0225703c.png",
@@ -11,10 +11,10 @@
     "static/media/IMG_9610.JPG": "/static/media/IMG_9610.f23beb659b47e9531df2.JPG",
     "index.html": "/index.html",
     "main.254916d0.css.map": "/static/css/main.254916d0.css.map",
-    "main.9e7f783e.js.map": "/static/js/main.9e7f783e.js.map"
+    "main.29db32cb.js.map": "/static/js/main.29db32cb.js.map"
   },
   "entrypoints": [
     "static/css/main.254916d0.css",
-    "static/js/main.9e7f783e.js"
+    "static/js/main.29db32cb.js"
   ]
 }

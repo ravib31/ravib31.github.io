@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe77ec42.css",
-    "main.js": "/static/js/main.26d896e0.js",
+    "main.css": "/static/css/main.d3c431ea.css",
+    "main.js": "/static/js/main.64977a89.js",
     "static/media/befour.png": "/static/media/befour.4b8259487e5ac06b31f9.png",
     "static/media/amazon.png": "/static/media/amazon.490c65f5e1d6d2b237e2.png",
     "static/media/digital.png": "/static/media/digital.1740d097035e0bab57ab.png",
@@ -11,11 +11,11 @@
     "static/media/IMG_9610.JPG": "/static/media/IMG_9610.f23beb659b47e9531df2.JPG",
     "static/media/Ravi_Bhashkar_Resume.pdf": "/static/media/Ravi_Bhashkar_Resume.17a2d812ea906d05f2a3.pdf",
     "index.html": "/index.html",
-    "main.fe77ec42.css.map": "/static/css/main.fe77ec42.css.map",
-    "main.26d896e0.js.map": "/static/js/main.26d896e0.js.map"
+    "main.d3c431ea.css.map": "/static/css/main.d3c431ea.css.map",
+    "main.64977a89.js.map": "/static/js/main.64977a89.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe77ec42.css",
-    "static/js/main.26d896e0.js"
+    "static/css/main.d3c431ea.css",
+    "static/js/main.64977a89.js"
   ]
 }

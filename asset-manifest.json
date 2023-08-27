@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d3c431ea.css",
-    "main.js": "/static/js/main.55cb290d.js",
+    "main.js": "/static/js/main.1f4d8575.js",
     "static/media/movie.png": "/static/media/movie.55c3670d52620bc8bf54.png",
     "static/media/amazon.png": "/static/media/amazon.6b5ba171ce723868d89e.png",
     "static/media/befour.png": "/static/media/befour.4b8259487e5ac06b31f9.png",
@@ -13,10 +13,10 @@
     "static/media/Ravi_Bhashkar_Resume.pdf": "/static/media/Ravi_Bhashkar_Resume.17a2d812ea906d05f2a3.pdf",
     "index.html": "/index.html",
     "main.d3c431ea.css.map": "/static/css/main.d3c431ea.css.map",
-    "main.55cb290d.js.map": "/static/js/main.55cb290d.js.map"
+    "main.1f4d8575.js.map": "/static/js/main.1f4d8575.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c431ea.css",
-    "static/js/main.55cb290d.js"
+    "static/js/main.1f4d8575.js"
   ]
 }

@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.4cefaa8d.css",
-    "main.js": "/static/js/main.9c33add1.js",
+    "main.js": "/static/js/main.a06ac813.js",
     "static/media/movie.png": "/static/media/movie.55c3670d52620bc8bf54.png",
     "static/media/amazon.png": "/static/media/amazon.6b5ba171ce723868d89e.png",
     "static/media/befour.png": "/static/media/befour.4b8259487e5ac06b31f9.png",
     "static/media/digital.png": "/static/media/digital.1740d097035e0bab57ab.png",
     "static/media/messhomart.png": "/static/media/messhomart.bfbc4aa812bd0225703c.png",
     "static/media/basket.png": "/static/media/basket.8dc3fe35df30334cd106.png",
+    "static/media/news.png": "/static/media/news.230a6c7a85865815493c.png",
     "static/media/today.png": "/static/media/today.6bc5337d2af7ceee57db.png",
     "static/media/IMG_9610.JPG": "/static/media/IMG_9610.f23beb659b47e9531df2.JPG",
     "static/media/Ravi_Bhashkar_Resume.pdf": "/static/media/Ravi_Bhashkar_Resume.17a2d812ea906d05f2a3.pdf",
     "index.html": "/index.html",
     "main.4cefaa8d.css.map": "/static/css/main.4cefaa8d.css.map",
-    "main.9c33add1.js.map": "/static/js/main.9c33add1.js.map"
+    "main.a06ac813.js.map": "/static/js/main.a06ac813.js.map"
   },
   "entrypoints": [
     "static/css/main.4cefaa8d.css",
-    "static/js/main.9c33add1.js"
+    "static/js/main.a06ac813.js"
   ]
 }

@@ -1,0 +1,145 @@
+#about h5 {
+  font-size: 2.5vmax;
+  color: white;
+}
+
+.about__container {
+  display: grid;
+  grid-template-columns: 35% 50%;
+  gap: 15%;
+  text-align: center;
+  border: solid yellow 1px;
+  justify-content: center;
+  align-items: center;
+}
+.about__content {
+  padding: 20px;
+}
+
+.about__me {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 2rem;
+  background: linear-gradient(
+    45deg,
+    transparent,
+    var(--color-primary),
+    transparent
+  );
+  display: grid;
+  place-items: center;
+}
+
+.about__me-image {
+  border-radius: 2rem;
+  border: 1px solid yellow;
+  overflow: hidden;
+  transform: rotate(10deg);
+  transition: var(--transition);
+}
+
+.about__me-image:hover {
+  transform: rotate(0);
+}
+
+.about__cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.about__card {
+  /* border: 1px solid yellow; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* width: 40%; */
+}
+
+.about__icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.about__card:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
+.about__card h5 {
+  font-size: 0.95rem;
+}
+
+.about__card small {
+  font-size: 0.7rem;
+  color: var(--color-light);
+}
+
+.about__content p {
+  max-width: 51%; /* Default max-width */
+  margin: 0 auto; /* Center the text */
+}
+.ravi {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  background-color: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 30px auto 0px auto;
+  max-width: 20%;
+  border: 2px solid yellow;
+}
+.ravi:hover {
+  background: var(--color-white);
+  color: var(--color-bg);
+  border-color: transparent;
+}
+
+/* ==============MEDIA QUERIES (MEDIUM DEVICES)=============== */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .about__cards {
+    flex-direction: row;
+    /* width: 40%; */
+  }
+
+  .about__card {
+    margin-bottom: 0;
+  }
+  .ravi {
+    /* display: inline-block; */
+    margin: 30px auto 0px auto;
+    max-width: 100%;
+  }
+  p {
+    max-width: 90%; /* Adjust the width for medium screens */
+  }
+}
+
+/* ==============MEDIA QUERIES (SMALL DEVICES)=============== */
+@media screen and (max-width: 768px) {
+  .about__cards {
+    flex-direction: column;
+  }
+
+  .about__card {
+    margin-bottom: 10px;
+  }
+  .ravi {
+    /* display: inline-block; */
+    margin: 30px auto 0px auto;
+
+    width: 100%;
+  }
+  .about__icon,
+  h5,
+  small {
+    text-align: center;
+  }
+  p {
+    max-width: 90%; /* Adjust the width for large screens */
+  }
+}

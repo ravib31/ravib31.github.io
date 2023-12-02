@@ -1,0 +1,71 @@
+.container.contact_container {
+    width: 58%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+    /* margin-left: 170px; */
+    /* margin: 20px auto 20px auto; */
+  }
+  #contact>h5{
+    font-size: 2.5vmax;
+    color: white;
+  }
+  
+  .contact_options {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+  .contact_option {
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid yellow;
+    transition: var(--transition);
+    /* margin-bottom: 1.2rem; */
+  }
+  .contact_option:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+  }
+  .contact_option-icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .contact_option a {
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    /* margin-left:8.2rem; */
+  }
+  input,
+  textarea {
+    width: 100%;
+    border: 1px solid yellow;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    resize: none;
+    color: white;
+    background: transparent;
+  }
+  
+  @media screen and(max-width: 1024px) {
+    .container.contact_container {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .container.contact_container {
+      width: var(--container-width-sm);
+    }
+  }
+  

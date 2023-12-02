@@ -1,0 +1,106 @@
+.portfolio__container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:2.5rem
+}
+
+.project-title{
+    text-align: center;
+    font-size: 2vmax;
+}
+#portfolio>h5{
+    font-size: 2.5vmax;
+    color: white;
+}
+
+@media screen and (max-width:1440px) {
+    .portfolio__container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media screen and (max-width:900px) {
+    .portfolio__container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+.portfolio__item {
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    /* border: 1px solid yellow; */
+    transition: var(--transition);
+
+    box-shadow: 16px 14px 20px #8204048c;
+    overflow: hidden;
+   
+
+}
+
+.portfolio__item {
+    border-color: var(--color-primary-variant);
+    background: transparent;
+    /* opacity: 0.8;
+    background-color: black;
+    color: aqua; */
+}
+
+.portfolio__item-image {
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+.portfolio__item-image{
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+.portfolio__item-image:hover{
+    cursor: pointer;
+    transform: scale(1.15);
+    box-shadow: 0 0 20px #03f43b;
+    margin: 5px;
+}
+
+.portfolio__item h5 {
+    margin: 1.2 rem 0 2rem;
+}
+
+.portfolio__item-cta{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+
+@media  screen and(max-width:1024px) {
+    .portfolio__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+  
+}
+
+@media  screen and (max-width: 600px) {
+    .portfolio__container{
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+   
+}
+.details{
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+    color: black;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    margin-top: 5px;
+    padding: auto;
+}
+/* .details h5{
+    padding: auto;
+    margin-left: 5px;
+    text-align: center;
+    justify-content: center;
+} */
